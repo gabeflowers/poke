@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "pokedex-challenge",
+=======
+  "name": "pokedex",
+>>>>>>> origin/master
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,8 +13,12 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+<<<<<<< HEAD
     "lodash": "^4.17.21",
     "vue": "^3.2.13"
+=======
+    "vue": "^2.6.14"
+>>>>>>> origin/master
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -20,8 +28,12 @@
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
+<<<<<<< HEAD
     "sass": "^1.32.7",
     "sass-loader": "^12.0.0"
+=======
+    "vue-template-compiler": "^2.6.14"
+>>>>>>> origin/master
   },
   "eslintConfig": {
     "root": true,
@@ -29,7 +41,11 @@
       "node": true
     },
     "extends": [
+<<<<<<< HEAD
       "plugin:vue/vue3-essential",
+=======
+      "plugin:vue/essential",
+>>>>>>> origin/master
       "eslint:recommended"
     ],
     "parserOptions": {
@@ -40,7 +56,11 @@
   "browserslist": [
     "> 1%",
     "last 2 versions",
+<<<<<<< HEAD
     "not dead",
     "not ie 11"
+=======
+    "not dead"
+>>>>>>> origin/master
   ]
 }

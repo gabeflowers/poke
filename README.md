@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # pokedex-challenge
+=======
+# pokedex
+>>>>>>> origin/master
 
 ## Project setup
 ```
